@@ -1,3 +1,3 @@
 # Sample Website
 
-This is a sample website.
+This is a sample website
