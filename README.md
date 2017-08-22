@@ -1,3 +1,3 @@
 # Sample Website
 
-This is a sample website about a whale.
+This is a sample website.
